@@ -2,6 +2,6 @@ This repository contains UART DMA Transmitter code developed for the 2025 Univer
 
 Features:
 
-DMA for Non-Blocking Operation
-Serialization/De-serialization
-Packet Loss Handling
+- DMA for Non-Blocking Operation
+- Serialization/De-serialization
+- Packet Loss Handling
