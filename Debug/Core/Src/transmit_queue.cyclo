@@ -1,0 +1,5 @@
+../Core/Src/transmit_queue.c:9:6:init_queue	1
+../Core/Src/transmit_queue.c:16:6:is_empty	1
+../Core/Src/transmit_queue.c:21:6:is_full	1
+../Core/Src/transmit_queue.c:26:6:enqueue	2
+../Core/Src/transmit_queue.c:39:6:dequeue	2

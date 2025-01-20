@@ -1,0 +1,5 @@
+../Core/Src/transmit_queue.c:9:6:init_queue	0	static
+../Core/Src/transmit_queue.c:16:6:is_empty	0	static
+../Core/Src/transmit_queue.c:21:6:is_full	0	static
+../Core/Src/transmit_queue.c:26:6:enqueue	16	static
+../Core/Src/transmit_queue.c:39:6:dequeue	16	static
